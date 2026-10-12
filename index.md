@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-10-05*
+*Last Updated 2026-10-12*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -169,6 +169,10 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 For all solo scenarios played during a Frosthaven campaign with crossover characters, use a loot deck of 15 coin cards.
 
+### Other Characters in Jaws of the Lion
+
+If it is your first time playing, you should use the characters who came with the game. If you are bringing another mercenary into the intro scenarios, just pick 6 (or 8) of your cards when the other players are using their A/B cards, matching their hand sizes.
+
 ![divider](/assets/images/divider.png)
 <br>
 ## <a name="page_11" class="page-number">11.0</a> Changelog (from release, v1.0 onwards)
@@ -194,6 +198,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-03-28 - Satha solo scenario clarification. 
 - 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven
 - 2026-10-05 - Satha 'Wolf Pack Tactics' clarification
+- 2026-10-12 - Added JotL compatibility to general crossover section 3.0
 
 
 <script>
